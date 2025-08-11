@@ -14,8 +14,8 @@ df = pd.DataFrame({"Degree":["Digital Marketing & Analytics", "Data Science", "S
 
 # Define your color mapping
 COLLEGE_COLORS = {
-    "Meridian State University": "#9467bd",
-    "Westfield College of Technology": "#ff7f0e"
+    "Meridian State University": "#0066cc",
+    "Westfield College of Technology": "#efbf04"
 }
 
 fig = px.bar(df, 
